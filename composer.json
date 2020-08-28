@@ -1,0 +1,15 @@
+{
+    "name": "bigbyte-pl/laravel-dbml-tools",
+    "type": "library",
+    "description": "DMBL tools for Laravel",
+    "keywords": ["DBML","Laravel","console","tools"],
+    "homepage": "https://github.com/bigbyte-pl/laravel-dmbl-tools",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marek Wysocki",
+            "email": "maras3000@gmail.com",
+            "role": "Developer"
+        }
+    ],
+}
