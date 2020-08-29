@@ -15,6 +15,7 @@
         "php": ">=7.0",
         "composer/composer": "^1.6 || ^2.0@dev",
         "doctrine/dbal": "~2.3",
+        "mhd-jalilvand/php-dbml-parser": "*",
         "illuminate/console": "^5.5 || ^6 || ^7",
         "illuminate/filesystem": "^5.5 || ^6 || ^7",
         "illuminate/support": "^5.5 || ^6 || ^7"
